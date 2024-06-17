@@ -47,7 +47,7 @@ Todos os algoritmos de regressão não apresentaram boas métricas de performanc
 ![classificacao_validacao](img/Performance_Class_Val.png)
 
 ### Sobre os dados de teste
-![classificacao_teste](Performance_Class_Test.png)
+![classificacao_teste](img/Performance_Class_Test.png)
 
 ## Ensaio de Regressão
 ### Sobre os dados de treinamento
