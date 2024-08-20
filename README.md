@@ -1,5 +1,4 @@
-# Nome do Projeto
-Ensaio de Machine Learning
+# Ensaio de Machine Learning
 # Problema de Negócio
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste fino dos algoritmos, feito pelos Cientistas de Dados da empresa, é o principal motivo dos ótimos resultados que as consultorias vem entregando aos seus clientes.
